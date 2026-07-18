@@ -41,6 +41,8 @@ Follow my journey and stay updated with my latest projects, tutorials, and creat
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/)](https://wa.me/)
+
 <br><br>
 
 <a href="https://wa.me/" style="display: inline-block; padding: 12px 20px; background: linear-gradient(135deg, #25D366, #20BA58); color: white; text-decoration: none; border-radius: 50px; font-weight: bold; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4); position: relative; overflow: hidden;" onmouseover="this.style.boxShadow='0 8px 25px rgba(37, 211, 102, 0.7)'; this.style.transform='scale(1.08) translateY(-2px)';" onmouseout="this.style.boxShadow='0 4px 15px rgba(37, 211, 102, 0.4)'; this.style.transform='scale(1) translateY(0)';">
@@ -111,7 +113,7 @@ Explore my collection of creative web projects, interactive applications, and re
 │  CSS              61.9%  ███████     │
 │  JavaScript       25.5%  ███         │
 │  HTML             12.6%  █           │
-└──────��──────────────────────────────┘
+└─────────────────────────────────────┘
 ```
 
 ### Language Distribution
@@ -163,6 +165,7 @@ Whether you're looking for a web developer, collaborator, or creative partner, I
 - **Real-time chat** → [Discord](https://discord.com)
 - **Gaming projects** → [Roblox](https://roblox.com)
 - **Daily updates** → [Twitter](https://twitter.com) | [Facebook](https://facebook.com)
+- **WhatsApp** → [Chat on WhatsApp](https://wa.me/)
 
 ---
 
