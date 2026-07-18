@@ -89,7 +89,7 @@ Explore my collection of creative web projects, interactive applications, and re
 │  Developer Tools:      4             │
 │  Total Players:        50,000+       │
 │  Community Rating:     ⭐⭐⭐⭐⭐     │
-└─────────────────────────────────────┘
+└────────��────────────────────────────┘
 ```
 
 ### 🔗 Quick Roblox Links
@@ -147,13 +147,9 @@ If you enjoy my projects and would like to support my work, consider sponsoring 
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #D4A574, #9B7D5D); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(212, 165, 116, 0.4); margin: 10px;" onmouseover="this.style.boxShadow='0 8px 25px rgba(212, 165, 116, 0.7)'; this.style.transform='scale(1.1) translateX(5px)';" onmouseout="this.style.boxShadow='0 4px 15px rgba(212, 165, 116, 0.4)'; this.style.transform='scale(1) translateX(0)';">
-  <span style="margin-right: 8px;">☕</span> Buy Me a Coffee
-</a>
-
-<a href="https://patreon.com/" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #FF424D, #E83C3D); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(255, 66, 77, 0.4); margin: 10px;" onmouseover="this.style.boxShadow='0 8px 25px rgba(255, 66, 77, 0.7)'; this.style.transform='scale(1.1) translateX(-5px)';" onmouseout="this.style.boxShadow='0 4px 15px rgba(255, 66, 77, 0.4)'; this.style.transform='scale(1) translateX(0)';">
-  <span style="margin-right: 8px;">🎉</span> Support on Patreon
-</a>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&link=https://buymeacoffee.com/)](https://buymeacoffee.com/)
+&nbsp;&nbsp;
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/)](https://patreon.com/)
 
 </div>
 
