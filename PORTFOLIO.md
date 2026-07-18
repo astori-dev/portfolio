@@ -26,13 +26,39 @@ Follow my journey and stay updated with my latest projects, tutorials, and creat
 ### 📱 Social Media & Contact
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com)](https://facebook.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com)
+&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com)](https://twitter.com)
+&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.com)](https://youtube.com)
+&nbsp;&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&link=https://tiktok.com)](https://tiktok.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com)](https://instagram.com)
+&nbsp;&nbsp;
 [![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&link=https://roblox.com)](https://roblox.com)
+&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com)](https://discord.com)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 📊 Detailed Social Media Links
+
+<div align="center">
+
+| Platform | Logo & Link | Status |
+|:--------:|:-----------:|:------:|
+| **Facebook** | [![Facebook](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://facebook.com) | Active |
+| **Twitter** | [![Twitter](https://cdn-icons-png.flaticon.com/512/3256/3256013.png)](https://twitter.com) | Active |
+| **YouTube** | [![YouTube](https://cdn-icons-png.flaticon.com/512/3256/3256013.png?q=youtube)](https://youtube.com) | Active |
+| **TikTok** | [![TikTok](https://cdn-icons-png.flaticon.com/512/3116/3116491.png)](https://tiktok.com) | Active |
+| **Instagram** | [![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://instagram.com) | Active |
+| **Roblox** | [![Roblox](https://cdn-icons-png.flaticon.com/512/6174/6174439.png)](https://roblox.com) | Active |
+| **Discord** | [![Discord](https://cdn-icons-png.flaticon.com/512/3211/3211925.png)](https://discord.com) | Active |
+| **Email** | [![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:your.email@example.com) | Active |
 
 </div>
 
@@ -60,6 +86,11 @@ Explore my collection of creative web projects, interactive applications, and re
 │  HTML             12.6%  █           │
 └─────────────────────────────────────┘
 ```
+
+### Language Distribution
+- 🎨 **CSS** - 61.9% (Styling & Design)
+- ⚙️ **JavaScript** - 25.5% (Functionality & Interactivity)
+- 🏗️ **HTML** - 12.6% (Structure & Markup)
 
 ---
 
@@ -94,6 +125,17 @@ Whether you're looking for a web developer, collaborator, or creative partner, I
 | **GitHub** | Active | [Visit Profile](#) |
 | **Portfolio** | Live | [View Projects](#) |
 | **Blog** | Coming Soon | [Subscribe](#) |
+
+---
+
+## 🔗 Social Media Integration
+
+### Quick Connect
+- **Need to collaborate?** → [Email Me](mailto:your.email@example.com)
+- **Follow my content** → [TikTok](https://tiktok.com) | [YouTube](https://youtube.com) | [Instagram](https://instagram.com)
+- **Real-time chat** → [Discord](https://discord.com)
+- **Gaming projects** → [Roblox](https://roblox.com)
+- **Daily updates** → [Twitter](https://twitter.com) | [Facebook](https://facebook.com)
 
 ---
 
