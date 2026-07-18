@@ -45,25 +45,6 @@ Follow my journey and stay updated with my latest projects, tutorials, and creat
 
 ---
 
-## 📊 Detailed Social Media Links
-
-<div align="center">
-
-| Platform | Logo & Link | Status |
-|:--------:|:-----------:|:------:|
-| **Facebook** | [![Facebook](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://facebook.com) | Active |
-| **Twitter** | [![Twitter](https://cdn-icons-png.flaticon.com/512/3256/3256013.png)](https://twitter.com) | Active |
-| **YouTube** | [![YouTube](https://cdn-icons-png.flaticon.com/512/3256/3256013.png?q=youtube)](https://youtube.com) | Active |
-| **TikTok** | [![TikTok](https://cdn-icons-png.flaticon.com/512/3116/3116491.png)](https://tiktok.com) | Active |
-| **Instagram** | [![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://instagram.com) | Active |
-| **Roblox** | [![Roblox](https://cdn-icons-png.flaticon.com/512/6174/6174439.png)](https://roblox.com) | Active |
-| **Discord** | [![Discord](https://cdn-icons-png.flaticon.com/512/3211/3211925.png)](https://discord.com) | Active |
-| **Email** | [![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:your.email@example.com) | Active |
-
-</div>
-
----
-
 ## 💼 Featured Projects
 
 ### Web Development Showcase
