@@ -153,19 +153,6 @@ Whether you're looking for a web developer, collaborator, or creative partner, I
 |----------|--------|------|
 | **GitHub** | Active | [Visit Profile](#) |
 | **Portfolio** | Live | [View Projects](#) |
-| **Blog** | Coming Soon | [Subscribe](#) |
-
----
-
-## 🔗 Social Media Integration
-
-### Quick Connect
-- **Need to collaborate?** → [Email Me](mailto:your.email@example.com)
-- **Follow my content** → [TikTok](https://tiktok.com) | [YouTube](https://youtube.com) | [Instagram](https://instagram.com)
-- **Real-time chat** → [Discord](https://discord.com)
-- **Gaming projects** → [Roblox](https://roblox.com)
-- **Daily updates** → [Twitter](https://twitter.com) | [Facebook](https://facebook.com)
-- **WhatsApp** → [Chat on WhatsApp](https://wa.me/)
 
 ---
 
