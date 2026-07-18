@@ -58,6 +58,46 @@ Explore my collection of creative web projects, interactive applications, and re
 
 ---
 
+## 🎮 Roblox Games & Tools
+
+### 🕹️ Featured Roblox Games
+
+| Game | Description | Status |
+|------|-------------|--------|
+| **Neon City Tycoon** | Build and manage your own futuristic city empire. Features dynamic economy system, customizable buildings, and multiplayer gameplay. | 🟢 Active |
+| **Skyward Quest** | An epic adventure game with challenging dungeons, boss battles, and treasure hunting. Includes progression system and achievements. | 🟢 Active |
+| **Pixel Maze Runner** | Fast-paced parkour and puzzle game where players navigate through intricate mazes. Features leaderboards and seasonal challenges. | 🟡 In Development |
+| **Mystery Manor** | Immersive mystery-solving game with interactive storytelling, riddles, and exploration gameplay. | 🟢 Active |
+
+### 🛠️ Roblox Tools & Plugins
+
+| Tool/Plugin | Description | Type |
+|------------|-------------|------|
+| **BuildPro Studio** | Advanced building tools plugin that enhances Roblox Studio with quick-build features and asset management. | Plugin |
+| **LuaScript Helper** | Comprehensive LuaScript IDE plugin with syntax highlighting, autocomplete, and debugging tools. | Developer Tool |
+| **Physics Tweaker** | Real-time physics manipulation and testing tool for optimizing game mechanics and character movement. | Utility Plugin |
+| **UI Designer Pro** | Visual UI design tool for creating responsive interfaces without writing complex GUI code. | Designer Tool |
+
+### 📊 Roblox Portfolio Stats
+
+```
+┌─────────────────────────────────────┐
+│  Total Games:          4             │
+│  Active Projects:      3             │
+│  Developer Tools:      4             │
+│  Total Players:        50,000+       │
+│  Community Rating:     ⭐⭐⭐⭐⭐     │
+└─────────────────────────────────────┘
+```
+
+### 🔗 Quick Roblox Links
+- **My Roblox Profile** → [Visit Profile](https://roblox.com)
+- **Play Neon City Tycoon** → [Launch Game](https://roblox.com/games)
+- **Download BuildPro Studio** → [Get Plugin](https://create.roblox.com/marketplace)
+- **Join Community** → [Discord Server](https://discord.com)
+
+---
+
 ## 📊 Technology Stack
 
 ```
